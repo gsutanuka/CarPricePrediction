@@ -1,6 +1,8 @@
 # Car Price Prediction
 
-Objective: To predict prices of cars based to the following factors:
+Finding out the which variables are significant in predicting the price of a car and how well those variables describe the price of a car.
+
+Predictor variables:
 
 1. symboling
 2. CarName
